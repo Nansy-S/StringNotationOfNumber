@@ -1,0 +1,115 @@
+<notation>
+    <number value="0">
+        <string>ноль</string>
+    </number>
+    <number value="1">
+        <string>один</string>
+        <female>одна</female>
+    </number>
+    <number value="2">
+        <string>два</string>
+        <female>две</female>
+    </number>
+    <number value="3">
+        <string>три</string>
+    </number>
+    <number value="4">
+        <string>четыре</string>
+    </number>
+    <number value="5">
+        <string>пять</string>
+    </number>
+    <number value="6">
+        <string>шесть</string>
+    </number>
+    <number value="7">
+        <string>семь</string>
+    </number>
+    <number value="8">
+        <string>восемь</string>
+    </number>
+    <number value="9">
+        <string>девять</string>
+    </number>
+    <number value="10">
+        <string>десять</string>
+    </number>
+    <number value="11">
+        <string>одиннадцать</string>
+    </number>
+    <number value="12">
+        <string>двенадцать</string>
+    </number>
+    <number value="13">
+        <string>тринадцать</string>
+    </number>
+    <number value="14">
+        <string>четырнадцать</string>
+    </number>
+    <number value="15">
+        <string>пятнадцать</string>
+    </number>
+    <number value="16">
+        <string>шестнадцать</string>
+    </number>
+    <number value="17">
+        <string>семнадцать</string>
+    </number>
+    <number value="18">
+        <string>восемнадцать</string>
+    </number>
+    <number value="19">
+        <string>девятнадцать</string>
+    </number>
+    <number value="20">
+        <string>двадцать</string>
+    </number>
+    <number value="30">
+        <string>тридцать</string>
+    </number>
+    <number value="40">
+        <string>сорок</string>
+    </number>
+    <number value="50">
+        <string>пятьдесят</string>
+    </number>
+    <number value="60">
+        <string>шестьдесят</string>
+    </number>
+    <number value="70">
+        <string>семьдесят</string>
+    </number>
+    <number value="80">
+        <string>восемьдесят</string>
+    </number>
+    <number value="90">
+        <string>девяносто</string>
+    </number>
+    <number value="100">
+        <string>сто</string>
+    </number>
+    <number value="200">
+        <string>двести</string>
+    </number>
+    <number value="300">
+        <string>триста</string>
+    </number>
+    <number value="400">
+        <string>четыреста</string>
+    </number>
+    <number value="500">
+        <string>пятьсот</string>
+    </number>
+    <number value="600">
+        <string>шестьсот</string>
+    </number>
+    <number value="700">
+        <string>семьсот</string>
+    </number>
+    <number value="800">
+        <string>восемьсот</string>
+    </number>
+    <number value="900">
+        <string>девятьсот</string>
+    </number>
+</notation>

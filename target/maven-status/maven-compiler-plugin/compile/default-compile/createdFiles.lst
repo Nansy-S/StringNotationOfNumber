@@ -1,0 +1,5 @@
+com\prokopovich\util\FormattingNumber.class
+com\prokopovich\util\Validation.class
+com\prokopovich\ConverterNumber.class
+com\prokopovich\StringNotationOfNumber.class
+com\prokopovich\parser\StringNotationStaxParser.class

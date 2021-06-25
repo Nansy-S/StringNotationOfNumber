@@ -1,0 +1,252 @@
+<notation>
+    <degree zeros="3">
+        <singular>тысяча</singular>
+        <parental>тысяч</parental>
+        <plural>тысячи</plural>
+    </degree>
+    <degree zeros="6">
+        <singular>миллион</singular>
+        <parental>миллионов</parental>
+        <plural>миллиона</plural>
+    </degree>
+    <degree zeros="9">
+        <singular>миллиард</singular>
+        <parental>миллиардов</parental>
+        <plural>миллиарда</plural>
+    </degree>
+    <degree zeros="12">
+        <singular>триллион</singular>
+        <parental>триллионов</parental>
+        <plural>триллиона</plural>
+    </degree>
+    <degree zeros="15">
+        <singular>квадриллион</singular>
+        <parental>квадриллионов</parental>
+        <plural>квадриллиона</plural>
+    </degree>
+    <degree zeros="18">
+        <singular>квинтиллион</singular>
+        <parental>квинтиллионов</parental>
+        <plural>квинтиллиона</plural>
+    </degree>
+    <degree zeros="21">
+        <singular>секстиллион</singular>
+        <parental>секстиллионов</parental>
+        <plural>секстиллиона</plural>
+    </degree>
+    <degree zeros="24">
+        <singular>септиллион</singular>
+        <parental>септиллионов</parental>
+        <plural>септиллиона</plural>
+    </degree>
+    <degree zeros="27">
+        <singular>октиллион</singular>
+        <parental>октиллионов</parental>
+        <plural>октиллиона</plural>
+    </degree>
+    <degree zeros="30">
+        <singular>нониллион</singular>
+        <parental>нониллионов</parental>
+        <plural>нониллиона</plural>
+    </degree>
+    <degree zeros="33">
+        <singular>дециллион</singular>
+        <parental>дециллионов</parental>
+        <plural>дециллиона</plural>
+    </degree>
+    <degree zeros="36">
+        <singular>ундециллион</singular>
+        <parental>ундециллионов</parental>
+        <plural>ундециллиона</plural>
+    </degree>
+    <degree zeros="39">
+        <singular>дуодециллион</singular>
+        <parental>дуодециллионов</parental>
+        <plural>дуодециллиона</plural>
+    </degree>
+    <degree zeros="42">
+        <singular>тредециллион</singular>
+        <parental>тредециллионов</parental>
+        <plural>тредециллиона</plural>
+    </degree>
+    <degree zeros="45">
+        <singular>кватуордециллион</singular>
+        <parental>кватуордециллионов</parental>
+        <plural>кватуордециллиона</plural>
+    </degree>
+    <degree zeros="48">
+        <singular>квиндециллион</singular>
+        <parental>квиндециллионов</parental>
+        <plural>квиндециллиона</plural>
+    </degree>
+    <degree zeros="51">
+        <singular>сексдециллион</singular>
+        <parental>сексдециллионов</parental>
+        <plural>сексдециллиона</plural>
+    </degree>
+    <degree zeros="54">
+        <singular>септендециллион</singular>
+        <parental>септендециллионов</parental>
+        <plural>септендециллиона</plural>
+    </degree>
+    <degree zeros="57">
+        <singular>октодециллион</singular>
+        <parental>октодециллионов</parental>
+        <plural>октодециллиона</plural>
+    </degree>
+    <degree zeros="60">
+        <singular>новемдециллион</singular>
+        <parental>новемдециллионов</parental>
+        <plural>новемдециллиона</plural>
+    </degree>
+    <degree zeros="63">
+        <singular>вигинтиллион</singular>
+        <parental>вигинтиллионов</parental>
+        <plural>вигинтиллиона</plural>
+    </degree>
+    <degree zeros="66">
+        <singular>унвигинтиллион</singular>
+        <parental>унвигинтиллионов</parental>
+        <plural>унвигинтиллиона</plural>
+    </degree>
+    <degree zeros="69">
+        <singular>дуовигинтиллион</singular>
+        <parental>дуовигинтиллионов</parental>
+        <plural>дуовигинтиллиона</plural>
+    </degree>
+    <degree zeros="72">
+        <singular>тревигинтиллион</singular>
+        <parental>тревигинтиллионов</parental>
+        <plural>тревигинтиллиона</plural>
+    </degree>
+    <degree zeros="75">
+        <singular>кватуорвигинтиллион</singular>
+        <parental>кватуорвигинтиллионов</parental>
+        <plural>кватуорвигинтиллиона</plural>
+    </degree>
+    <degree zeros="78">
+        <singular>квинвигинтиллион</singular>
+        <parental>квинвигинтиллионов</parental>
+        <plural>квинвигинтиллиона</plural>
+    </degree>
+    <degree zeros="81">
+        <singular>сексвигинтиллион</singular>
+        <parental>сексвигинтиллионов</parental>
+        <plural>сексвигинтиллиона</plural>
+    </degree>
+    <degree zeros="84">
+        <singular>септенвигинтиллион</singular>
+        <parental>септенвигинтиллионов</parental>
+        <plural>септенвигинтиллиона</plural>
+    </degree>
+    <degree zeros="87">
+        <singular>октовигинтиллион</singular>
+        <parental>октовигинтиллионов</parental>
+        <plural>октовигинтиллиона</plural>
+    </degree>
+    <degree zeros="90">
+        <singular>новемвигинтиллион</singular>
+        <parental>новемвигинтиллионов</parental>
+        <plural>новемвигинтиллиона</plural>
+    </degree>
+    <degree zeros="93">
+        <singular>тригинтиллион</singular>
+        <parental>тригинтиллионов</parental>
+        <plural>тригинтиллиона</plural>
+    </degree>
+    <degree zeros="96">
+        <singular>унтригинтиллион</singular>
+        <parental>унтригинтиллионов</parental>
+        <plural>унтригинтиллиона</plural>
+    </degree>
+    <degree zeros="99">
+        <singular>дуотригинтиллион</singular>
+        <parental>дуотригинтиллионов</parental>
+        <plural>дуотригинтиллиона</plural>
+    </degree>
+    <degree zeros="102">
+        <singular>третригинтиллион</singular>
+        <parental>третригинтиллионов</parental>
+        <plural>третригинтиллиона</plural>
+    </degree>
+    <degree zeros="105">
+        <singular>кватортригинтиллион</singular>
+        <parental>кватортригинтиллионов</parental>
+        <plural>кватортригинтиллиона</plural>
+    </degree>
+    <degree zeros="108">
+        <singular>квинтригинтиллион</singular>
+        <parental>квинтригинтиллионов</parental>
+        <plural>квинтригинтиллиона</plural>
+    </degree>
+    <degree zeros="111">
+        <singular>секстригинтиллион</singular>
+        <parental>секстригинтиллионов</parental>
+        <plural>секстригинтиллиона</plural>
+    </degree>
+    <degree zeros="114">
+        <singular>септентригинтиллион</singular>
+        <parental>септентригинтиллионов</parental>
+        <plural>септентригинтиллиона</plural>
+    </degree>
+    <degree zeros="117">
+        <singular>октотригинтиллион</singular>
+        <parental>октотригинтиллионов</parental>
+        <plural>октотригинтиллиона</plural>
+    </degree>
+    <degree zeros="120">
+        <singular>новемтригинтиллион</singular>
+        <parental>новемтригинтиллионов</parental>
+        <plural>новемтригинтиллиона</plural>
+    </degree>
+    <degree zeros="123">
+        <singular>квадрагинтиллион</singular>
+        <parental>квадрагинтиллионов</parental>
+        <plural>квадрагинтиллиона</plural>
+    </degree>
+    <degree zeros="126">
+        <singular>унквадрагинтиллион</singular>
+        <parental>унквадрагинтиллионов</parental>
+        <plural>унквадрагинтиллиона</plural>
+    </degree>
+    <degree zeros="129">
+        <singular>дуоквадрагинтиллион</singular>
+        <parental>дуоквадрагинтиллионов</parental>
+        <plural>дуоквадрагинтиллиона</plural>
+    </degree>
+    <degree zeros="132">
+        <singular>треквадрагинтиллион</singular>
+        <parental>треквадрагинтиллионов</parental>
+        <plural>треквадрагинтиллиона</plural>
+    </degree>
+    <degree zeros="135">
+        <singular>кваторквадрагинтиллион</singular>
+        <parental>кваторквадрагинтиллионов</parental>
+        <plural>кваторквадрагинтиллиона</plural>
+    </degree>
+    <degree zeros="138">
+        <singular>квинквадрагинтиллион</singular>
+        <parental>квинквадрагинтиллионов</parental>
+        <plural>квинквадрагинтиллиона</plural>
+    </degree>
+    <degree zeros="141">
+        <singular>сексквадрагинтиллион</singular>
+        <parental>сексквадрагинтиллионов</parental>
+        <plural>сексквадрагинтиллиона</plural>
+    </degree>
+    <degree zeros="144">
+        <singular>септенквадрагинтиллион</singular>
+        <parental>септенквадрагинтиллионов</parental>
+        <plural>септенквадрагинтиллиона</plural>
+    </degree>
+    <degree zeros="147">
+        <singular>октоквадрагинтиллион</singular>
+        <parental>октоквадрагинтиллионов</parental>
+        <plural>октоквадрагинтиллиона</plural>
+    </degree>
+    <degree zeros="150">
+        <singular>новемквадрагинтиллион</singular>
+        <parental>новемквадрагинтиллионов</parental>
+        <plural>новемквадрагинтиллиона</plural>
+    </degree>
+</notation>

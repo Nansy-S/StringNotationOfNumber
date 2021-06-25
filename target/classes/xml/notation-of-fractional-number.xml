@@ -1,0 +1,38 @@
+<notation>
+    <decimal place="1">
+        <singular>десятая</singular>
+        <parental>десятых</parental>
+    </decimal>
+    <decimal place="2">
+        <singular>сотая</singular>
+        <parental>сотых</parental>
+    </decimal>
+    <decimal place="3">
+        <singular>тысячная</singular>
+        <parental>тысячных</parental>
+    </decimal>
+    <decimal place="4">
+        <singular>десятитысячная</singular>
+        <parental>десятитысячных</parental>
+    </decimal>
+    <decimal place="5">
+        <singular>стотысячная</singular>
+        <parental>стотысячных</parental>
+    </decimal>
+    <decimal place="6">
+        <singular>миллионная</singular>
+        <parental>миллионных</parental>
+    </decimal>
+    <decimal place="7">
+        <singular>десятимиллионная</singular>
+        <parental>десятимиллионных</parental>
+    </decimal>
+    <decimal place="8">
+        <singular>стомиллионная</singular>
+        <parental>стомиллионных</parental>
+    </decimal>
+    <decimal place="9">
+        <singular>миллиардная</singular>
+        <parental>миллиардных</parental>
+    </decimal>
+</notation>
